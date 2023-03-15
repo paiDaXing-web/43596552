@@ -39,3 +39,4 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 </p>
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=paiDaXing-web&show_icons=true&theme=tokyonight)
